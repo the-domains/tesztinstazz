@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Instazz.hu]]></title>
+        <description><![CDATA[Instazz.hu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 17:32:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hosszú Katinka első úszásával sokkolta Európát]]></title>
+            <description><![CDATA[<article><h1>Hosszú Katinka első úszásával sokkolta Európát</h1><p>Londonban a délelőtti előfutamokkal elkezdődött az úszó Európa-bajnokság. Este már magyar érmek is lehetnek. Hosszú Katinka négyszáz vegyesen nagyon elverte a teljes mezőnyt. Az Eb a férfi 400 méter gyors előfutamaival indult, három magyar is megpróbált a döntőbe kerülni. Rasovszky Kristóf a második előfutamban a harmadik helyet szerezte meg, nevezési idejét megjavította (3:54.28), de ez kevés volt a továbbjutáshoz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7f8764e7a86b36d0e55faa5f9e4f66dce0f93b2.jpg"></article>]]></description>
+            <link>http://index.hu/sport/uszas/2016/05/16/uszo_eb_elso_nap_selejtezo_bernek_peter_hosszu_katinka/</link>
+            <guid isPermaLink="false">4411ae51-5b65-442d-a849-8d5aa907f9fe</guid>
+            <pubDate>Wed, 18 May 2016 17:32:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
