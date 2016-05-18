@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Az Instagram tervezői kitaláltak egy új logót.
-datePublished: '2016-05-18T18:04:34.507Z'
-dateModified: '2016-05-18T18:04:20.966Z'
+datePublished: '2016-05-18T18:08:25.809Z'
+dateModified: '2016-05-18T18:05:53.986Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-18-az-instagram-tervezoi-kitalaltak-egy-uj-logot.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-az-instagram-tervezoi-kitalaltak-egy-uj-logot.md
 url: az-instagram-tervezoi-kitalaltak-egy-uj-logot/index.html
 _type: Article
 
@@ -20,4 +22,4 @@ _type: Article
 Az Instagram tervezői kitaláltak egy új logót.
 
 Neked hogy tetszik?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82cb124f-324d-4d22-89ba-e006499e4893.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/210bf4b3026ea0ae2a49214474b9b1afb29d845f.jpg)
